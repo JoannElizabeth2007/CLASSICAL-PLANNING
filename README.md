@@ -1,6 +1,6 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
-## Name: PRANAV K
-## Reg No: 212224040240
+## Name: JOANN ELIZABETH SAMUEL
+## Reg No: 212224040139
 # Aim
 To solve Implementation of Classical Planning Algorithm using python
 
